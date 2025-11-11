@@ -138,7 +138,8 @@ Top recommendations:
 
 #### ⏱️ Latency Plot
 
-![Latency Graph](<img width="1237" height="585" alt="Screenshot 2025-11-11 062637" src="https://github.com/user-attachments/assets/d52ca701-3a3a-4ca7-a481-6a01476cdf73" />
+![Latency Graph](<img width="1066" height="538" alt="image" src="https://github.com/user-attachments/assets/496464a5-3c41-4d0f-abb2-10bbccc6de05" />
+
 )
 
 > Typical query latency: **0.24–0.30s**, including embedding + similarity.
